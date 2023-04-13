@@ -1,8 +1,0 @@
-{
-    "compilerOptions": {
-        "outDir": "build",
-        "target": "ESNext", // this tells the ts to use the js version available
-        "noEmit": true    // we are not generating any output file
-    },
-    "include": ["basics/src/**/*"]
-}
