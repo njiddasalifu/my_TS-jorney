@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "target": "ESNext", //this tell compiler to use latest js version available
+        "noEmit": true
+    },
+    "include": ["src/**/*"]
+}
