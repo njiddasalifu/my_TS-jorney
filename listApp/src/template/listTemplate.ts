@@ -18,7 +18,7 @@ export default class ListTemplate implements DOMList{
     //reder method which receieves the full list
     render(fullList: FullList): void {
         this.clear()
-        fullList.list.forEach(=>{
+        fullList.list.forEach(=> {
             const li = document.createElement("li") as HTMLImageElement
             li.className = "item"
         })
