@@ -1,2 +1,3 @@
-var id = 5;
+"use strict";
+let id = 5;
 //id = '5'
