@@ -3,4 +3,5 @@
 let id = 5;
 let company = 'Salif Web';
 let isPublished = true;
-let x = 'Hello';
+let x = 'Hello'; // any type can work
+let ids = [];
