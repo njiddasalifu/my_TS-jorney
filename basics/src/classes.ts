@@ -2,7 +2,7 @@
 
 class Person{
     id: number
-    name: string
+    name: string 
 
     //constructor
     constructor(){
