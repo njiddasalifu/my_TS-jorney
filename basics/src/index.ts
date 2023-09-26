@@ -8,3 +8,4 @@ let department: any = ''
 let x:any = 'Hello' // any type can work
 
 let ids: number[] =  []
+console.log(x);
