@@ -14,5 +14,6 @@ interface MathFunc {
 
 //using the interface
 const add: MathFunc = (x, y):number =>x + y
+const sub: MathFunc = (x, y): number => x-y;
 
 
